@@ -1,0 +1,6 @@
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Release\ResolveAssemblyReference.cache
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Release\Interop.CrystalActiveXReportViewerLib13.dll
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Release\AxInterop.CrystalActiveXReportViewerLib13.dll
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Release\PROYECTO MATRICULA.vbproj.ResolveComReference.cache
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Release\GenerateResource-ResGen.write.1.tlog

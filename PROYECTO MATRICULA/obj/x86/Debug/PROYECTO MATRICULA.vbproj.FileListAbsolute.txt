@@ -1,0 +1,884 @@
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidactica.resources
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+E:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+E:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+E:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidactica.resources
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidactica.resources
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+H:\PROYECTO MATRICULA\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+F:\PROYECTO MATRICULA\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+G:\PROYECTO MATRICULA\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\PROYECTO MATRICULACHIO\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+G:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PROYECTO MATRICULA 1\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.858.tlog
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.858.tlog
+H:\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.4.tlog
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.4.tlog
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.858.tlog
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Estrella\Desktop\PROYECTO MATRICULA 1-7-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.4.tlog
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.858.tlog
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+F:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+H:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+H:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+H:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.ReporteNotas.resources
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.4.tlog
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.858.tlog
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+G:\PROYECTO MATRICULA 27-08-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.ReporteNotas.resources
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.4.tlog
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.858.tlog
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\ROCIO\Desktop\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+H:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+H:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+H:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.ReporteNotas.resources
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.4.tlog
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.858.tlog
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+E:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.ReporteNotas.resources
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.4.tlog
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.858.tlog
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+I:\PROYECTO MATRICULA 01-09-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.ReporteNotas.resources
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.4.tlog
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.858.tlog
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\PROYECTO MATRICULA 01-10-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.ReporteNotas.resources
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.4.tlog
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.858.tlog
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+G:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+G:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+G:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.ReporteNotas.resources
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.4.tlog
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.858.tlog
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\PROYECTO MATRICULA 2-10-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.ReporteNotas.resources
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.4.tlog
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.858.tlog
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\kelly\lory\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.ReporteNotas.resources
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.4.tlog
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.858.tlog
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\ROCIO\Downloads\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmReporte.resources
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.ReporteNotas.resources
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.4.tlog
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.858.tlog
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FormRepAlumno.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FormRepAlumno.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmReporte.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.ReporteNotas.resources
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FormRepAlumno.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmReporte.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.ReporteNotas.resources
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+F:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FormRepAlumno.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmReporte.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.ReporteNotas.resources
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.4.tlog
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.858.tlog
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FormRepAlumno.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmReporte.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.ReporteNotas.resources
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\PROYECTO MATRICULA 3-11-12\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pc-100\Desktop\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+C:\Users\pc-100\Desktop\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+C:\Users\pc-100\Desktop\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+C:\Users\pc-100\Desktop\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FormRepAlumno.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmReporte.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.ReporteNotas.resources
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROYECTO MATRICULA 7-02-13\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FormRepAlumno.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmReporte.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.ReporteNotas.resources
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROYECTO MATRICULA 22-02-13\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe.config
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.exe
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.xml
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\PROYECTO MATRICULA.pdb
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.exe
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.pdb
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\bin\Debug\PROYECTO MATRICULA.xml
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FormRepAlumno.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmCiclo.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDistrito.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmDocente.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmEspecialidad.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmMatricula.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmNotas.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmregistraralumno.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmModulo.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmAcceso.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmMenu.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.FrmReporte.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmSemestre.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTurno.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUndDidac.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmUsuarios.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.frmTipoIngreso.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\WindowsApplication1.ReporteNotas.resources
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\UNIDAD ACADEMICA\Desktop\PROYECTO MATRICULA 24-02-13\PROYECTO MATRICULA\obj\x86\Debug\GenerateResource.write.1.tlog
